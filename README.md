@@ -1,2 +1,2 @@
-# 2Rings
-2Rings
+# HTML-CSS-TEMPLATE-TWO
+HTML And CSS Design 2
