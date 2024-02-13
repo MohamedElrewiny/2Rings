@@ -1,2 +1,1 @@
-# HTML-CSS-TEMPLATE-TWO
-HTML And CSS Design 2
+https://mohamedelrewiny.github.io/2Rings/
